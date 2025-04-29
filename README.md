@@ -15,7 +15,7 @@ You need to download and install Git from this link: https://git-scm.com/downloa
 5. Enable `Git` plugin
 ## Download Vault
 #### Download using Git
-See [(Optional) Download and Setup Git](#(Optional) Download and Setup Git)
+See [(Optional) Download and Setup Git](#(optional)-download-and-setup-git)
 #### Download manually
 1. Go to this link: `https://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@github.com/FooterReal/overlord-vault`
 2. Click 'Code', then click 'Download zip'
@@ -31,7 +31,7 @@ Before the Vault is opened in Obsidian, some plugins need to be prepared to make
 5. Install and enable `Dataview` and `Meta Bind` plugins
 
 ## Opening the Vault
-Make sure you complete [Preparing Obsidian](#Preparing Obsidian), at least before opening the Vault in Obsidian.
+Make sure you complete [Preparing Obsidian](#preparing-obsidian), at least before opening the Vault in Obsidian.
 
 #### Opening
 1. Open Obsidian
