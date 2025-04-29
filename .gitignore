@@ -16,6 +16,12 @@ Day*Planners/*
 # This file is used to keep track of last auto backup/pull
 .obsidian-git-data
 
+# Exclude VS Code files
+.vscode
+
+# Exclude conflict files
+conflict-files-obsidian-git.md
+
 # Exclude Untitled Notes
 Untitled*
 # Exclude "bad" names
