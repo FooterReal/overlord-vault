@@ -1,3 +1,3 @@
 {description}
 
-#Character #Dead #Lore
+#Character #Dead #Lore `#{race}`

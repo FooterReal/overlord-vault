@@ -1,1 +1,1 @@
-#Character #Elf #Dead 
+#Character #Elf #Dead #Lore

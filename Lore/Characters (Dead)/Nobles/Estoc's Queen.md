@@ -1,1 +1,1 @@
-#Character #Elf #Dead #Lore
+#Character #Beastman #Dead #Lore

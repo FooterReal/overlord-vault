@@ -1,1 +1,1 @@
-#Character #Overlord #Undead #Death #Dead #Lore
+#Character #Overlord #Dead #Lore #Undead
