@@ -1,0 +1,3 @@
+The God of [[Death]] is not worshipped but they are prayed to often. He is the one who brings back souls to the [[Cycle of Reincarnation]] to have their sins wiped clean, considered a necessary god but one who often brings ill tidings. This god does not mark a [[Hero]] of their choice but instead begins the cycle of an [[Overlord]] by [[Brand|branding]] the one who they have chosen to have their soul dragged towards death.
+
+#Religion #God #Lore

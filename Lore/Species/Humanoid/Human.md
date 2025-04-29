@@ -1,0 +1,1 @@
+#Species #Humanoid #Lore #Playable

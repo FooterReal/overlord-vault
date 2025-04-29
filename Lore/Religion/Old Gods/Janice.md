@@ -1,0 +1,3 @@
+[[Janice]] is the Lord of Control. In his instance, it is control over one's self. His blessings would grant the people under them better control over their own mind and body. For his religion, personal freedom is a very important along with mastering yourself. Letting intrusive thoughts and temptations control you are considered frowned upon as it's considered to be falling short of the goal.
+
+#Religion #God #Lore

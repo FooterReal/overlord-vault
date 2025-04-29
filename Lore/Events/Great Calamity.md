@@ -1,0 +1,10 @@
+An unthinkable event which tore [[The World|the world]] asunder. Nearly 850 years ago, [[The World|the world]] itself was harmed with the [[Rising of the Great Adversary|Rising]] of the [[Great Adversary]]. Who they used to be has long since been lost to history, but their actions were undeniably remembered. In the Days when the [[Wyr-Ones]]' faith stood firm and the [[Old Gods]] had only recently taken hold, they took to arms and marched with a single goal. To destroy everything.
+
+Their power was unmatched in it's destructive potential and even alone, the [[Great Adversary ]]scarred the world as they tore down nation after nation. Nobody within their way was spared from their wraith. However, in the end, their rampage would indeed eventually come to an end. Nearly fifty years after the beginning of their rampage and with the death of the [[4th Old God]], The [[Aurora|Prophet of The Eternus]] stood and fought the [[Great Adversary]] to the death, finally slaying the weakened menace once and for all, thus bringing the rise of the [[Eternus]]' Religion.
+
+Many facts of the [[Great Calamity]] were unfortunately lost during the chaotic time, but many atrocities are well remembered. Races which once stood within the hundreds in variations were culled down to mere dozens. Precious materials said to have been handcrafted by the [[Old Ones]] and the [[Wyr-Ones]] were forever destroyed, and even now, the world has not forgotten the devastation of their battle with the [[Old Gods]], with the [[Magic]] still overwhelmingly choking out areas in which these battles reigned.
+
+>"These times have forgotten the [[Magic|magics]] of old. Having seen what cruelties such incredible power can make, I can only count my blessings that such a thing happened."         
+	- [[Alastia]], the last of the [[Divine Touched]].
+
+#Event #Lore

@@ -1,0 +1,3 @@
+The Goddess of [[Romance]] is not fully about love, as one may expect. Instead, the goddess is steeped more within romanticism. Promoting the passions and vibrancy of life, she is the one which calls for an enjoyment in all things life. Her [[Brand|brand]] marks a [[Hero]] as one experienced in many things. Typically wise beyond what the other members will be and with knowledge accumulated by a lifetime of travel, they round out the party with their necessary skills, even if they may not be the best in most categories. 
+
+#Religion #God #Lore

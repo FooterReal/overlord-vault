@@ -1,0 +1,3 @@
+The God of the [[Cosmos]] is considered the leader of the [[Eternus]] and is the one who assisted in keeping the world together during the destruction caused by the [[Great Calamity]]. While he does not tend to answer many prayers, his answers tend to be the most powerful. It is said most of his attention is placed within keeping those of [[Eldritch Gods|Eldritch]] or aberration nature outside of the cracks created in the wake of the [[Great Adversary]]'s destructive power. Those chosen by their power are [[Brand|Branded]] as the leader of the [[Hero|Heroes]]. They tend to be Jack of all trades and master of many, with skills roughly equal in all aspects of combat.
+
+#Religion #God #Lore

@@ -1,0 +1,3 @@
+The God of [[Knowledge]] calls for the secrets of the world to be unveiled. They promote learning and knowledge, detesting intentional ignorance. While the way to go about this varies greatly, one of the most common forms of worship include basic tutoring for the uneducated. Those [[Brand|branded]]by [[Knowledge]] tend to pursue ancient powers and [[Magic]], wanting to delve into unnatural powers beyond the common man. Their intelligence and ambition for knowledge tends to result in their skills being uniquely crafted together for themselves.
+
+#Religion #God #Lore

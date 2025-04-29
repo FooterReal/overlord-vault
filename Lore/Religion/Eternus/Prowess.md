@@ -1,0 +1,3 @@
+The Goddess of [[Prowess]], despite typically being worshiped by warriors and prayed for during war, embodies all types of skills and capabilities. [[Prowess]] comes in all shape and forms and it is acknowledged. Talent does not make the man, yet it does grant them an advantage, one that they should feel little shame in taking advantage of. All things have their calling in life after all. Those [[Brand|Branded]] by the Goddess of [[Prowess]] are unmatched monsters in whatever skillset they take up for themselves. Typically taking up the path of martial fighting, they tend to change the foundations of fighting before their role comes to an end.
+
+#Religion #God #Lore
