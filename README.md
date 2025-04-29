@@ -17,7 +17,7 @@ You need to download and install Git from this link: https://git-scm.com/downloa
 #### Download using Git
 See [[#(Optional) Download and Setup Git]]
 #### Download manually
-1. Go to this link: https://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@github.com/FooterReal/overlord-vault
+1. Go to this link: `https://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@github.com/FooterReal/overlord-vault`
 2. Click 'Code', then click 'Download zip'
 3. Unzip into a folder of your choice
 

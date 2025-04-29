@@ -11,4 +11,4 @@ Excludes heroes: `INPUT[text:excludedProperty]`
 
 >{quote - optional}
 
-#Character #Overlord #Death
+#Character #Overlord #Death `#{race}`

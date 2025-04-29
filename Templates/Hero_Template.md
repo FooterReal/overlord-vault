@@ -11,4 +11,4 @@ Excludes heroes: `INPUT[text:excludedProperty]`
 
 >{quote - optional}
 
-#Character #Hero #Cosmos #Fate #Knowledge #Prowess #Romance
+#Character #Hero `#{Cosmos|Fate|Knowledge|Prowess|Romance}` `#{race}`
