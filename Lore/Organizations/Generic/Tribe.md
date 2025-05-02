@@ -1,8 +1,8 @@
 >Important members:
->Units: [[Slave]]
+>Units: [[Fighter]]
 >Titles:
 ---
 
 {description}
 
-#Organization #Criminal #Lore
+#Organization #Generic #Lore

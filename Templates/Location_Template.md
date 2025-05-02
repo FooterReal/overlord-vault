@@ -1,3 +1,3 @@
 {description}
 
-#Location `#{Building|Town|City|Region|Kingdom|Plane}`
+#Location `#{Building|Camp|Town|City|Region|Kingdom|Plane}`
