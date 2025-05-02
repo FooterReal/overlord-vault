@@ -5,4 +5,4 @@
 
 {racial features - optional}
 
-#Species #Lore #Bestial
+#Species #Lore #Abyssal
