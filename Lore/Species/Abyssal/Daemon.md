@@ -1,1 +1,5 @@
-#Species #Abyssal #Lore
+## Description
+
+{description}
+
+#Species #Lore #Abyssal

@@ -10,9 +10,9 @@ Excludes heroes: `INPUT[text:excludedProperty]`
 ![[sayo.png|150]]
 
 ---
-The [[Eastern Lands]] are not very well known to the [[Mainland]], being rather isolationist. However, one thing is known for sure. And that is that these lands are turbulent. Their [[Demon|Demons]], far different from your own, rampage mindlessly across their nation while rebellion rages against the [[Imperial Family]]. 
+The [[Eastern Lands]] are not very well known to the [[Mainland]], being rather isolationist. However, one thing is known for sure. And that is that these lands are turbulent. Their [[Demon|Demons]], far different from your own, rampage mindlessly across their nation while rebellion rages against the [[Imperial Family (Previous)|Imperial Family]].
 
-And recently, the rebels have indeed succeeded in their task. They have overthrown the [[Imperial Family|Kyrin Dynasty]] and have placed their leader, [[Empress Sayo|Sayo]] within the spot of empress. Such things should not be of any importance to you all… but it seems that one nation has not sated her interests. Having captured a port city, it seems like war may be inevitable. Especially with the newfound mark upon her that decrees her end.
+And recently, the rebels have indeed succeeded in their task. They have overthrown the [[Imperial Family (Previous)|Kyrin Dynasty]] and have placed their leader, [[Empress Sayo|Sayo]] within the spot of empress. Such things should not be of any importance to you all… but it seems that one nation has not sated her interests. Having captured a port city, it seems like war may be inevitable. Especially with the newfound mark upon her that decrees her end.
 
 In truth, while the idea of taking more territory for her people appeals to her, [[Empress Sayo|Sayo]] has pushed into the [[Mainland]] for another reason. Several important figures have escaped their end during the rebellion. People she can not allow to live. Attempts to have them tracked down and assassinated by her [[Shinobi]] have all failed. So she’s been forced to resort to more drastic measures to ensure that they die. 
 

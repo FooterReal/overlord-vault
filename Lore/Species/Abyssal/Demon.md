@@ -1,8 +1,10 @@
+## Description
+
 [[Demon|Demons]], as opposed to [[Daemon|Daemons]] and [[Devil|Devils]] who linger in the pits of the [[Abyss]], were the initial creation of [[The Second Overlord]]. Initially created to be a powerful force to tear down the world with, created using [[Artifact of the Abyss|artifact]] from the [[Abyss]]. It ended up not mattering as the [[Overlord]] was still defeated.
 
 However, this left the [[Demon|Demons]] with little to do or know. A race which varies greatly in body and form due to the chaotic nature of the [[Artifact of the Abyss|Artifact]] which created them, these creatures had no real place to insert themselves into this [[The World|world]]. Moreover, their history has made them disliked with quite a few, and [[Demon|demon]] racism isn't unheard of from time to time.
-
 ## Racial Features
+
 #### Ability Score Increase
 +2 to two stats of your choice. -1 to another stat. 
 
@@ -30,4 +32,4 @@ You have **no soul** to speak of. You can not be **revived** or affected by anyt
 #### Languages
 You can speak, read, and write [[Common]] and [[Abyssal]].
 
-#Species #Abyssal #Lore #Playable
+#Species #Lore #Abyssal #Playable

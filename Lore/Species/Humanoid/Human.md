@@ -1,1 +1,5 @@
-#Species #Humanoid #Lore #Playable
+## Description
+
+{description}
+
+#Species #Lore #Humanoid #Playable

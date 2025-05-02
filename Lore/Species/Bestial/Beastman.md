@@ -1,3 +1,5 @@
+## Description
+
 Long Ago, the races that make up [[Beastman|Beastmen]] may have been considered something more than what they are now. The influence from other [[Planes]] and creatures taking hold and making them truly special. Those days are long since gone. Now, they all fall under the same banner of being animalistic versions of humanity. 
 
 The following races count as Beastmen:
@@ -19,7 +21,6 @@ The following races count as Beastmen:
 (If anyone of them have a type that is not humanoid, change it to humanoid.)
 
 Commonly stereotyped as cruel and savage creatures due to their animalistic natures, a rift has been formed between them and the kingdom of [[Trael]]. While more accepted elsewhere, 'demonizing' them is not exactly uncommon, even if they find nowhere near the same level of prejudice as actual [[Demon|demons]] might. When playing a [[Beastman]], you can choose to play as '[[Beastman]]' races. However, should none suit your interest or this one seems more your style, you can use this to build your own.
-
 ## Racial Features
 #### Ability Score Increase
 +2 to a physical stat and +1 to a stat of your choice.

@@ -1,1 +1,1 @@
-#Power #Lore
+#Power #Divine #Lore

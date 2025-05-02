@@ -12,4 +12,4 @@ Reincarnate now has a time limit of a month. When cast, the soul is forcefully s
 
 True Resurrection works as long as the soul has not finished getting reincarnated at no risk.
 
-#Power #Lore
+#Power #Divine #Lore

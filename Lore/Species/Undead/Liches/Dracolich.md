@@ -1,1 +1,5 @@
-#Species #Undead #Lore 
+## Description
+
+{description}
+
+#Species #Lore #Undead

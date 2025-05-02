@@ -36,3 +36,5 @@ When you make the constitution saving throw, you will also add your level to the
 While recharging is the most common method of using a [[Divinity Zones|Divinity Zone]], that doesn't even scratch the limit of what may be possible within them. (You can try and pull things you normally never could in one of these zones. The penalties for doing so will still apply.)
 
 If an anti-magic zone is cast within a [[Divinity Zones|Divinity Zone]], [[Magic]] will still function within it. However, the present [[Divinity]] can no longer be used.
+
+#Power #Divine #Lore

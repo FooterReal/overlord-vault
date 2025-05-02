@@ -1,1 +1,5 @@
-#Species #Undead #Lore #Playable
+## Description
+
+{description}
+
+#Species #Lore #Undead #Playable

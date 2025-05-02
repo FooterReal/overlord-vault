@@ -6,7 +6,7 @@ Excludes heroes: `INPUT[text:excludedProperty]`
 ![[cecil.jpg|150]]
 
 ---
-The personal bodyguard of the newly [[Empress Sayo|Crowned Empress]] of the [[Eastern Lands]], [[Cecil]] was her main enforcer during the early days of the rebellion. A simple commoner who truly believed in the ideals [[Empress Sayo|Sayo]] spoke of and was fully board with the rebellion against the [[Imperial Family|Kyrin Dynasty]]. Clad with only an old Naginata, both Rebel and Loyalist expected little of the mud-born commoner. She has no titles to her name, her family were just bakers, and quite frankly, she looked nowhere near the standards of someone of her ‘position.’
+The personal bodyguard of the newly [[Empress Sayo|Crowned Empress]] of the [[Eastern Lands]], [[Cecil]] was her main enforcer during the early days of the rebellion. A simple commoner who truly believed in the ideals [[Empress Sayo|Sayo]] spoke of and was fully board with the rebellion against the [[Imperial Family (Previous)|Kyrin Dynasty]]. Clad with only an old Naginata, both Rebel and Loyalist expected little of the mud-born commoner. She has no titles to her name, her family were just bakers, and quite frankly, she looked nowhere near the standards of someone of her ‘position.’
 
 Perhaps [[Empress Sayo|Sayo]] simply struct gold or maybe she already knew what she was working with. But the people would only be able to utter in fear as she revealed her strength upon the battlefield. With brutal swings that could send 3 men flying, she easily carved the way for the rebellion’s victory that day. And she would continue to bring it time and time again as the war raged on. For she would polish her mighty strength further and be clad in equipment befitting one of her newfound status.
 

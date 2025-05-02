@@ -10,7 +10,7 @@ Excludes heroes: `INPUT[text:excludedProperty]`
 
 Having lived within those [[Briar Woods|woods]] as long as he could remember, [[Nameless|The Bog-Walker]] has no actual name and goes by the title those who have stumbled across him have taken to calling him. It’s not as if it’s a wrong description as he does often wander bogs. Although, the [[Briar Woods]] are too vast to simply spend all his time within those Bogs. Having a proper name is something he’s never quite put much consideration into.
 
-He is an unusual existence for he lies unaffiliated with the [[Witch Coven|Witch Covens]] which make the [[Briar Woods]] their home but also refuses to leave for whatever reason, remaining within that hellish woods and somehow surviving within it. But just because he is unaffiliated with those Witches, does not mean he doesn’t do dealings with them. For the magic of a witch runs through his blood, branding him as a [[Hexblood]].
+He is an unusual existence for he lies unaffiliated with the [[Witch Coven|Witch Covens]] which make the [[Briar Woods]] their home but also refuses to leave for whatever reason, remaining within that hellish woods and somehow surviving within it. But just because he is unaffiliated with those [[Witch|Witches]], does not mean he doesn’t do dealings with them. For the magic of a [[Witch|witch]] runs through his blood, branding him as a [[Hexblood]].
 
 Although, despite his status as a [[Hexblood]], he’s not a particularly impressive mage. Enough to send the odd ‘critter’ or two running, he instead relies upon an entirely different method to solve his issues most of the times. [[Potions|Potions and alchemy]] is his forte and he lives within the most varied selection to test these things.
 

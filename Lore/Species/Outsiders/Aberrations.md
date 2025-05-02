@@ -1,1 +1,5 @@
-#Species #Outsider #Lore
+## Description
+
+{description}
+
+#Species #Lore #Outsider
