@@ -4,7 +4,6 @@ Their power was unmatched in it's destructive potential and even alone, the [[Gr
 
 Many facts of the [[Great Calamity]] were unfortunately lost during the chaotic time, but many atrocities are well remembered. Races which once stood within the hundreds in variations were culled down to mere dozens. Precious materials said to have been handcrafted by the [[Old Ones]] and the [[Wyr-Ones]] were forever destroyed, and even now, the world has not forgotten the devastation of their battle with the [[Old Gods]], with the [[Magic]] still overwhelmingly choking out areas in which these battles reigned.
 
->"These times have forgotten the [[Magic|magics]] of old. Having seen what cruelties such incredible power can make, I can only count my blessings that such a thing happened."         
-	- [[Alastia]], the last of the [[Divine Touched]].
+>"These times have forgotten the [[Magic|magics]] of old. Having seen what cruelties such incredible power can make, I can only count my blessings that such a thing happened." - [[Alastia]], the last of the [[Divine Touched]].
 
 #Event #Lore
