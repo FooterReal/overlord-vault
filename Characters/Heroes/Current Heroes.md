@@ -1,19 +1,20 @@
 ---
-prowHeroProperty: Hera
-fateHeroProperty: Zephia
+prowHeroProperty: "-"
+fateHeroProperty: "-"
 cosmHeroProperty: "-"
-romnHeroProperty: Innes
+romnHeroProperty: "-"
+knowHeroProperty: "-"
 ---
 ```dataviewjs
 function retrieveForbiddenByOverlord() {
 	let location = '"Characters/Overlords/Current Overlord"';
-	let overlord = dv.pages(location)[0].file.frontmatter.overlordProperty;
+	let overlord = dv.pages(location)[0].file.frontmatter.overlordProperty.replace("'","’");
 	
 	if (overlord == undefined || overlord == "" || overlord == "-") {
 		return [];
 	}
 	
-	let overlordLocation = '"Characters/Overlords/Candidates/' + overlord + '"';
+	let overlordLocation = '"Characters/Overlords/Candidates/' + overlord.replace("’","'") + '"';
 	let exclude = dv.pages(overlordLocation)[0].file.frontmatter.excludedProperty;
 
 	if (exclude == undefined || exclude == "") {

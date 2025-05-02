@@ -1,6 +1,6 @@
->Important members: [[Emperor]], [[Emperor's Son]]
+>Important members: [[Emperor]], [[Nagaya]]
 >Units: 
->Titles:
+>Titles: [[Imperial Heir]]
 ---
 
 {description}
