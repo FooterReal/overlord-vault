@@ -1,5 +1,5 @@
 ---
-overlordProperty: Okthar’enstix
+overlordProperty: "-"
 ---
 ```dataviewjs
 let pages = [...dv.pages('"Characters/Overlords/Candidates"').map(p => p.file.name).sort()];
