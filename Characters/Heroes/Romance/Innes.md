@@ -1,5 +1,5 @@
 ---
-excludedProperty: Julius Greyhold
+excludedProperty: Julius
 ---
 >The Bandit Prince
 ---
