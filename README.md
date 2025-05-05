@@ -5,7 +5,7 @@ Obsidian Vault for 'Hail the Overlord!' game.
 You need to download and install Git from this link: https://git-scm.com/downloads if you want to use its features.
 #### Setup
 1. Navigate to folder where you'd like to download the Vault
-2. Use this command: `git clone https://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@github.com/FooterReal/overlord-vault.git`
+2. Use this command: `git clone https://github.com/FooterReal/overlord-vault.git`
 3. This will clone the vault into a new folder (probably called overlord-vault)
 #### Installing Git plugin in Obsidian
 1. Open Obsidian
@@ -17,7 +17,7 @@ You need to download and install Git from this link: https://git-scm.com/downloa
 #### Download using Git
 See [(Optional) Download and Setup Git](#(optional)-download-and-setup-git)
 #### Download manually
-1. Go to this link: `https://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@github.com/FooterReal/overlord-vault`
+1. Go to this link: `https://github.com/FooterReal/overlord-vault`
 2. Click 'Code', then click 'Download zip'
 3. Unzip into a folder of your choice
 
