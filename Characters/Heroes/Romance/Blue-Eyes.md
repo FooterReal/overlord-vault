@@ -12,7 +12,7 @@ A bounty hunter by trade, he is a part of a three man [[Dead Eye|group]] involvi
 
 [[Blue-Eyes]] is the ranged expert of the group, but bows and the like are just not enough of a statement for his pace. Also they’re not cool enough but that’s neither here nor there. So, he decided to adapt with the times and pick up himself some guns which he then preceded to plead [[Purple-Eyes]] to enchant because he doesn’t know any [[Lore/Powers/Magic/Magic]].
 
-A crack-shot with any type of gun, he still has his preferences for smaller, handheld firearms which he uses in conjunction with his [[Belt of Holding]] to just continuously pull out more and more pistols as soon as he’s out of ammo. Reloading them all is a pain in the ass but it’s an undeniably effective method of getting around the inherent slowness of constantly reloading.
+A crack-shot with any type of gun, he still has his preferences for smaller, handheld [[Firearms]] which he uses in conjunction with his [[Belt of Holding]] to just continuously pull out more and more pistols as soon as he’s out of ammo. Reloading them all is a pain in the ass but it’s an undeniably effective method of getting around the inherent slowness of constantly reloading.
 
 Despite being the [[Dead Eye|trio]]’s ranged specialist, he tends to be more in the front than you’d expect, timing off risky dodges to get the opportunity to blow the other person’s head straight off. He fights dramatically and impractically, pissing off his enemies with his obviously mocking style. Although, if need be, he can and will get serious, and when he does he’s quite the terror to behold upon the battlefield.
 
