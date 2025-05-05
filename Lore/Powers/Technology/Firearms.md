@@ -29,4 +29,4 @@ List of firearms:
 - **Magical Amplifier:** Make the weapon capable of handling magic as well as bullets. Requires a decent enchanter to get done. The weapon now counts as magical and can be used as a spellcasting focus. You can now use bullet variations of spells. Cost: **2x of the weapon’s base cost**.
 - **Rifling:** Get some rifling for your weapon to improve both accuracy and range. Requires a skilled weapon-smith to install. Grants +1 to hit and increases the range of the weapon by half of its current range. Cost: **1.5x the weapon’s base cost**.
 
-#Power #Lore
+#Power #Firearm #Lore
